@@ -5,3 +5,7 @@
 采用nwidart进行模块化开发
 安装
 composer install
+
+</br>
+获取本地Key
+php artisan key:generate
