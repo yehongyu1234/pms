@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/main",
+    "description": "",
+    "authors": [
+        {
+            "name": "YeHongyu",
+            "email": "yehongyu1234@126.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Main\\Providers\\MainServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Main\\": ""
+        }
+    }
+}
