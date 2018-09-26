@@ -22,4 +22,5 @@ php artisan voyager:admin your@email.com --create
 
 <br>
 获取本地Key
+<br>
 php artisan key:generate
